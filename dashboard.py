@@ -170,6 +170,10 @@ class RMS:
             self.lbl_student.config(text=f"Total Student\n {str(len(student))}")
             self.lbl_result.config(text=f"Total Student\n {str(len(result))}")
 
+            self.lbl_course.after(200,self.update_details ) #calling the function automatically
+            self.lbl_student.after(200,self.update_details ) #calling the function automatically
+            self.lbl_result.after(200,self.update_details ) #calling the function automatically
+
         except Exception as ex:
             messagebox.showerror("Error", f"Error due to {str(ex)}")
 
