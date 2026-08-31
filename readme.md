@@ -188,39 +188,9 @@ The application performs basic database operations such as:
 
 ### Dashboard
 
-Add your dashboard screenshot here:
-
 ```markdown
 ![Dashboard](images/dashboard.png)
 ```
-
-### Course Management
-
-```markdown
-![Course Management](images/course.png)
-```
-
-### Student Management
-
-```markdown
-![Student Management](images/student.png)
-```
-
-### Result Management
-
-```markdown
-![Result Management](images/result.png)
-```
-
-### Student Result
-
-```markdown
-![Student Result](images/student_result.png)
-```
-
-> Make sure the screenshot filenames match the actual files in your repository.
-
----
 
 ## 🎯 Learning Objectives
 
@@ -238,33 +208,6 @@ This project helped me understand:
 * Basic project structure
 
 ---
-
-## 🚀 Future Improvements
-
-Some features that can be added in the future:
-
-* 🔐 Login and authentication system
-* 📄 Generate result as PDF
-* 🖨️ Print student results
-* 📈 Automatic percentage and grade calculation
-* 🔎 Advanced student search
-* 💾 Automatic database backup
-* ☁️ Cloud database support
-* 🌐 Web-based version
-* 👥 Separate Admin and Student accounts
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-BSc IT Student
-
-This project was developed as part of a **Python Programming** academic project.
-
----
-
 ## 📄 License
 
 This project is created for **educational and learning purposes**.
